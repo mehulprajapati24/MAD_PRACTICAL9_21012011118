@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Drawable Resource File then create file then replace selector with shape-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <gradient
+        android:type="radial"
+        android:startColor="#E194DD"
+        android:endColor="#7994EB"
+        android:centerX="0.9"
+        android:centerY="0.9"
+        android:gradientRadius="1500" />
+<!--    <size android:height="400dp"-->
+<!--        android:width="250dp"/>-->
+</shape>
