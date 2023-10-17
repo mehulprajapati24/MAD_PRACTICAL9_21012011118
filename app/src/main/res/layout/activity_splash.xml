@@ -5,13 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SplashActivity"
-    android:background="@drawable/shape">
+    android:background="@drawable/gradient_rectangle">
 
     <ImageView
-        android:id="@+id/uvpceLogo"
+        android:id="@+id/uvpce"
         android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:background="@drawable/uvpce_logo_animation"
+        android:layout_height="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
